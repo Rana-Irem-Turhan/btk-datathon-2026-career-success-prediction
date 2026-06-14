@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+jupyter
+notebook
+xgboost
+lightgbm
+catboost
+optuna
+sentence-transformers
+flaml
